@@ -6,4 +6,5 @@ catboost
 scikit-learn
 xgboost
 mlflow==2.5.0
+dvc
 #-e .
